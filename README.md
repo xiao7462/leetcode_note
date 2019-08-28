@@ -67,7 +67,7 @@ public class QuickSort {
 ```
 
 ```python
-arr = [1,5,6,1,7,23,7,8,3,]
+arr = [1,5,6,1,7,23,7,8,3]
 
 def quick_sort(arr, start,end ):
     if start >= end:
